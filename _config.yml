@@ -1,2 +1,3 @@
 name: Praveen Velliengiri
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
