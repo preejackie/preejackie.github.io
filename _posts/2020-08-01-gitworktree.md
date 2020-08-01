@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How git-worktree's work"
+title: "How git-worktree's work?"
 date: 2020-08-01
 ---
 
